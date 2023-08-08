@@ -1,5 +1,5 @@
 # What is Poetherapy Web Application
-[](https://docs.google.com/document/d/1fCvvVeoOXdhwkd8jgUiZAiQT77MCHkq8dM1cy_wQyVI/edit)
+[SRS](https://docs.google.com/document/d/1fCvvVeoOXdhwkd8jgUiZAiQT77MCHkq8dM1cy_wQyVI/edit)
 
 The Poetherapy Web Application is a digital solution to reduce hindrances and challenges faced while accessing and consuming mental health services in Africa. It intends to use both art and technology to raise awareness and enhance service provision in the mental health field. 
 
@@ -18,7 +18,7 @@ The Poetherapy Web Application is a digital solution to reduce hindrances and ch
 
 ### Explaining The Steps
 
-**Home Page** [](templates/index.html)
+**Home Page** [Landinga page](templates/index.html)
 
     At the Home page, the reader will be able to navigate through the page and access:
     1. Navigation bar
