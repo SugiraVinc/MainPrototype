@@ -21,11 +21,13 @@ The Poetherapy Web Application is a digital solution to reduce hindrances and ch
 
 **Home Page** [](templates/index.html)
 
-At the Home page, the reader will be able to navigate through the page and access:
-1. Navigation bar
-2. Login Button
-3. Brief Description of Poetherapy Web App
-4. Partners
+    At the Home page, the reader will be able to navigate through the page and access:
+    1. Navigation bar
+    2. Login Button
+    3. Brief Description of Poetherapy Web App
+    4. Partners
+
+...
 
 ## Join the Support Group
 
@@ -40,6 +42,52 @@ Review dates and meeting time.
 4. Review dates and meeting time.
 5. Sign Up for the upcoming meetings.
 6. Select to join the WhatsApp Group or not
+
+...
+
+## Art Room
+
+**steps**
+
+1. Click on the artroom button
+2. View the content
+    - Poetry
+    - Drawings
+    - Music
+    - Podcast
+3. Do you want to upload content?
+    - *Yes*
+        - upload from computer or Google Drive
+        - Notification msg "Your upload is in review, we will get back to you shortly."
+    - *No*
+        - Redirect on the artroom
+
+...
+    
+## Book An Appointment
+
+**Steps**
+
+1. Click the Book Appointment button
+2. Select appointment options
+    - In-person
+    - Virtual
+3. Navigate through the service providers
+4. Book the appointment on a calendar
+5. Set automatic reminder.
+
+...
+
+## Self-screen
+**Steps**
+
+1. Click on Self-screening button
+2. Select screening options:
+    - General screening
+    /hjhkhk/
+
+
+
 
 
 
