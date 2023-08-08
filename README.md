@@ -19,13 +19,31 @@ The Poetherapy Web Application is a digital solution to reduce hindrances and ch
 
 ### Explaining The Steps
 
-![](/templates/index.html) **Home Page** 
+**Home Page** [](templates/index.html)
 
 At the Home page, the reader will be able to navigate through the page and access:
 1. Navigation bar
 2. Login Button
 3. Brief Description of Poetherapy Web App
 4. Partners
+
+## Join the Support Group
+
+**steps**
+
+1. Click on Join SG
+2. Select Joining options:
+    - Join Anonymously
+    - Join with your name
+3. Read rules and responsibilities
+Review dates and meeting time.
+4. Review dates and meeting time.
+5. Sign Up for the upcoming meetings.
+6. Select to join the WhatsApp Group or not
+
+
+
+
 
 
 
