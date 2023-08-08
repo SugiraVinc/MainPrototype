@@ -19,6 +19,15 @@ The Poetherapy Web Application is a digital solution to reduce hindrances and ch
 
 ### Explaining The Steps
 
+[](/templates/index.html) **Home Page** 
+
+At the Home page, the reader will be able to navigate through the page and access:
+1. Navigation bar
+2. Login Button
+3. Brief Description of Poetherapy Web App
+4. Partners
+
+
 
 
 
